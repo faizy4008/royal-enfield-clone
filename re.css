@@ -1,0 +1,630 @@
+.header{
+    background-color: black;
+    width: 100%;
+    height: 48px;
+    padding-top: 25px;
+  
+}
+body{
+    margin: 0;
+}
+
+
+.logo{
+    width: 200px;
+    margin-left: 30px;
+    float: left;
+}
+
+
+.inside-box{
+    background-color: #000000;
+    width: 884px;
+    height: 36px;
+    margin-left: 396px;
+}
+.box-text{
+    color: #fff;
+    text-decoration: none;
+    font-family: system-ui;
+    font-size: smaller;
+    margin-left: 20px;
+   
+}
+
+
+
+select {
+    font-size: 12px;
+    
+}
+    
+ 
+
+.selection-box1{
+    width: 51px;
+    margin-left: 20px;
+    background-color: black;
+    color: #fff;
+    border: none;
+   
+}
+.selection-box2{
+    width: 65px;
+    margin-left: 20px;
+    background-color: black;
+    color: #fff;
+    border: none;
+}
+   
+.selection-box3{
+    width: 55px;
+    margin-left: 20px;
+    background-color: black;
+    color: #fff;
+    border: none;
+
+} 
+.selection-box4{
+    width: 81px;
+    margin-left: 20px;
+    background-color: black;
+    color: #fff;
+    border: none;
+   
+}
+
+.login-box{
+    width: 58px;
+    margin-left: 92px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    font-weight: bold;
+
+}
+.video{   
+  width: 106%;
+ display: block;
+
+}
+.image-design{
+      height: 196px;
+      
+      position: absolute;
+      top: 13%;
+      left: 3%;
+}
+.image-design1{
+    position: absolute;
+    top: 11%;
+    left: 84%;
+    height: 133px;
+}
+
+.main-image2{
+    width: 100%;
+    display: block;
+  
+}
+
+.sub-div{
+    background-color: #212121;
+    height: 30px;
+    padding: 18px;
+}
+.sub-text{
+    color: #fff;
+    margin-left: 40%;
+    font-size: x-large;
+    font-weight: bold;
+font-family: sans-serif;
+text-decoration: none;
+}
+
+
+.parent-class{
+    
+   width: 100%;
+   height: 33vh;
+  display: flex;
+}
+
+.main-image3 {
+ background: url(3.jpg);
+ width: 25%;
+ height: 100%;
+ background-position: center;
+ background-size: cover;
+ color: #fff;
+ font-size: medium;
+ font-weight: bold;
+ position: relative;
+}
+
+.image3-text{
+    position: absolute;
+    color: #fff;
+    font-size: medium;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-top: 140px;
+    font-family: sans-serif;
+}
+
+.main-image4{
+    background: url(4.avif);
+    width: 25%;
+ height: 100%;
+ background-position: center;
+ background-size: cover;
+ color: #fff;
+ font-size: medium;
+ font-weight: bold;
+ position: relative;
+   
+}
+.image4-text{
+    position: absolute;
+    color: #fff;
+    font-size: medium;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-top: 161px; 
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.main-image5{
+    background: url(1.avif);
+    width: 25%;
+    height: 100%;
+    background-position: center;
+    background-size: cover; 
+    position: relative;
+    
+
+}
+
+.image5-text{
+    position: absolute;
+    color: #fff;
+    font-size: medium;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-top: 161px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+
+.main-image6{
+    background: url(2.avif);
+    width: 25%;
+    height: 100%;
+    background-position: center;
+    background-size: cover; 
+    position: relative;  
+   
+} 
+
+.image6-text{
+    position: absolute;
+    color: #fff;
+    font-size: medium;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-top: 161px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.sub-div2{
+   
+    background-color: #212121;
+    display: flex;
+    justify-content: space-between;    
+   padding: 25px;
+   
+  
+}
+
+.items{
+   
+    color: #fff;
+    font-family: sans-serif;
+    font-size: small;
+    letter-spacing: 1px;
+}
+.motor{
+    flex-basis: 20px;
+    font-size: large;
+    font-weight: bold; 
+    border: none;
+    margin-right: 20px;
+
+}
+
+  
+
+.items:hover{
+    color: red;
+}
+
+.parent-class2{
+    background-color: aquamarine;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+  
+.intercep-image{
+    background-image: url(interceptor_650_motorcycle.avif);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+}
+
+ .intercep-text{
+    position: relative;
+    color: #fff;
+    font-size: 23px;
+    font-family: system-ui;
+    font-weight: 700;
+    margin-top: 240px;
+    margin-left: 60px;
+}
+
+
+.intercep-text1 {
+    position: relative;
+    color: #000000;
+    background-color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: sans-serif;
+    width: 81px;
+    height: 15px;
+    margin-top: 309px;
+    margin-left: -200px;
+    text-align: center;
+}
+.sub-div3{
+    background-color: #212121;
+    display: flex;
+    justify-content: space-between;    
+   padding: 25px;
+}
+.item-div3{
+     
+    color: #fff;
+    font-family: sans-serif;
+    font-size: small;
+    letter-spacing: 1px;
+}
+.R{
+    flex-basis: 20px;
+    font-size: large;
+    font-weight: bold; 
+    border: none;
+    margin-right: 20px;
+}
+.item-div3:hover{
+    color: red;
+}
+
+.parent-class3{
+    background-color: aquamarine;
+    width: 100%;
+    height: 84vh;
+    display: flex;
+   
+}
+
+.dragon-image{
+    background: url(ebc1920x750.avif);
+    width: 100%;
+    background-position: center;
+    background-size: cover; 
+    position: relative;  
+}
+.dragon-text{
+    position: relative;
+    color: #000000;
+    background-color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: sans-serif;
+    width: 103px;
+    height: 15px;
+    margin-top: 395px;
+    margin-left: -697px;
+    text-align: center;
+}
+.sub-div4{
+    background-color: #212121;
+    display: flex;
+    justify-content: space-between; 
+   padding: 25px;
+   width: 758px;
+}
+.item-div4{
+    color: #fff;
+    font-family: sans-serif;
+    font-size: small;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    
+}
+.container{
+    background-color: #212121;
+
+
+}
+.ap{
+    flex-basis: 20px;
+    font-size: large;
+    font-weight: bold; 
+    border: none;
+    margin-right: 20px;
+}
+.item-div4:hover{
+    color: red;
+}
+.parent-class4{
+    background-color: aquamarine;
+    width: 100%;
+    height: 84vh;
+    display: flex;
+}
+.image-alpinstar{
+    background: url(royal-enfield-x-alpinestar.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover; 
+    position: relative;  
+
+}
+
+.text-alpinstar {
+    position: absolute;
+    color: #fff;
+    font-family: system-ui;
+    font-size: 15px;
+    width: 127px;
+    font-weight: 600;
+    height: 36px;
+    background-color: transparent;
+    border-color: #fff;
+    border-width: thin;
+    margin-top: 398px;
+    margin-left: 567px;
+}
+
+.text-alpinstar:hover{
+    background-color: #fff;
+    color: black;
+}
+.sub-div5{
+    background-color: #212121;
+    display: flex;
+    justify-content: space-between; 
+   padding: 25px;
+   width: 513px;
+}
+.item-div5{
+    color: #fff;
+    font-family: sans-serif;
+    font-size: small;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    
+}
+.ac{
+    flex-basis: 20px;
+    font-size: large;
+    font-weight: bold; 
+    border: none;
+    margin-right: 20px;
+}
+.item-div5:hover{
+    color: red;
+}
+.parent-class5{
+    background-color: aquamarine;
+    width: 100%;
+    height: 84vh;
+    display: flex;
+}
+.image-bullet{
+    background: url(gma-landing.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover; 
+    position: relative;  
+
+}
+
+.text-bullet {
+    position: relative;
+    color: #000000;
+    background-color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: sans-serif;
+    width: 85px;
+    height: 16px;
+    margin-top: 240px;
+    margin-left: -1179px;
+    text-align: center;
+}
+.sub-div6{
+    background-color: #212121;
+    display: flex;
+    justify-content: space-between; 
+   padding: 25px;
+   width: 738px;
+}
+.item-div6{
+    color: #fff;
+    font-family: sans-serif;
+    font-size: small;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    
+}
+.lu{
+    flex-basis: 96px;
+    font-size: large;
+    font-weight: bold; 
+    border: none;
+    margin-right: 20px;
+}
+.item-div6:hover{
+    color: red;
+}
+
+.parent-class6{
+    background-color: aquamarine;
+    width: 100%;
+    height: 84vh;
+    display: flex;
+}
+.image-bike{
+    background: url(dealers-home-new.avif);
+    width: 100%;
+    background-position: center;
+    background-size: cover; 
+    position: relative;  
+
+}
+.text-bike{
+    position: relative;
+    color: white;
+    padding: 21px;
+    font-size: 22px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    width: 250px;
+    height: 31px;
+    margin-top: 182px;
+    margin-left: -1211px;
+}
+.text-bike2{
+    position: relative;
+    color: #000000;
+    background-color: #fff;
+    padding: 13px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: sans-serif;
+    width: 122px;
+    height: 13px;
+    margin-top: 259px;
+    margin-left: -268px;
+    text-align: center;
+}
+
+.sub-div7{
+   
+    background-color: #212121;
+    color: #b4b2b2;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 74px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: system-ui;
+
+}
+.left-footer
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    flex: 1;
+}
+.center-footer
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    flex: 1;
+}
+.right-footer
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    flex:1;
+}
+.left-footer img
+{
+    flex: 1;
+    width: 90px;
+}
+.center-footer img
+{
+    flex: 1;
+    width: 90px;
+}
+.right-footer img
+{
+    flex:1;
+    width: 90px;
+}
+.semi-footer{
+    display: flex;
+    padding: 30px;
+    justify-content: end;
+    background-color: #c6c1c1;
+   
+  
+}
+
+.semifooter-sub a{
+text-decoration: none;
+padding:10px;
+font-family: system-ui;
+font-size: 15px;
+color: black;
+}
+     
+.semifooter-sub i{
+   size: 10px;
+}
+
+.footer-main{
+    justify-content: space-between;
+   display: flex;
+   align-items: baseline;
+   padding: 30px;
+   background: #c6c1c1;
+}
+.footer-sub{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
+.footer-sub a{
+    text-decoration: none;
+    color: black;
+    font-family: system-ui;
+}
+
+.footer-sub h3{
+    font-family: system-ui;
+}
